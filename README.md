@@ -1,7 +1,8 @@
 # teamThreeFinalProject
 ### teamThree's Final Project for cs225
 
-
+**Project Description**
+This is a program designed to create a list for a party or gathering of any size. The outcome is that everyone on the list will be connected to at least one other person, as our goal was to prevent people being excluded. This is done through finding and sorting linked Twitter followers. Other individuals who may be connected to one person, but not someone else, can also be added to the list. The algorithms used to create the program include Dijkstra's and Tarjan's, as well as Breadth-First Search for traversing.
 
 **Github Organization**  
 The build folder has our Makefile and all of the build files that we used to run CMake in order to compile and test our code.  
